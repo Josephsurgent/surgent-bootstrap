@@ -1,3 +1,6 @@
 .carousel-item{
   max-height:500px;
 }
+.carousel-caption {
+  color: orange;
+}
